@@ -1,2 +1,0 @@
-alias - mosobr
-pass - msoft250418
